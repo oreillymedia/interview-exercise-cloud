@@ -17,7 +17,7 @@ To pull this container from DockerHub:
 docker pull registry.hub.docker.com/caedus41/oreilly-cloud-engineer-postgres
 ```
 
-The credentials for this database is:
+The credentials for this database are:
 ```bash
 username = oreilly
 password = hunter2
